@@ -1,0 +1,10 @@
+{
+  "name": "deploy-me-netlify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Galen Corey <galen.corey@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.16.1"
+  }
+}
